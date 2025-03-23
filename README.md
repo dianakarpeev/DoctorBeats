@@ -1,3 +1,5 @@
+![mrbeat-banner](https://github.com/user-attachments/assets/f2c234b9-2565-4059-ab47-015aa10cce45)
+
 # 🐢 Mr. Beats - VR Therapeutic Game
 
 Mr. Beats is a VR game designed to reduce pain and anxiety in children undergoing needle-based medical procedures. Built on decades of research in pediatric pain, neuroscience, and immersive media, Mr. Beats transforms the clinical experience from one of fear and trauma into one of creativity and calm.
