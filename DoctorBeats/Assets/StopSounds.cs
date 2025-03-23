@@ -34,4 +34,12 @@ public class StopSounds : MonoBehaviour
             a.Stop();
         }
     }
+
+    public void PlayOnlyOneSound(AudioSource a)
+    {
+        StopAllSounds();
+        a.Play();
+       
+    }
+
 }
