@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -31249,7 +31249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a94ac4eadabb548bcad46161e34500, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CreatureVoice: {fileID: 8300000, guid: 7605b9ea56434e5488df6425303ae24c, type: 3}
+  CreatureVoice: {fileID: 8300000, guid: 8c9e8b26b06deb94cab4e4ea1c7efbd9, type: 3}
   intro_source: {fileID: 1938186647}
 --- !u!82 &1938186647
 AudioSource:
