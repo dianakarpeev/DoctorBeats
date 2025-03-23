@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/Meta XR Interaction SDK Essentials/74.0.0/UnityXR Integration/Scenes/UnityXRComprehensiveRigExample.unity
     guid: 1c3839a1070e4a14ab46e590c49bec68
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/XR_Sample_scene_modified.unity
     guid: 5646372f6da336a439f699356372eaa5
+  - enabled: 1
+    path: Assets/Scenes/khadika_scene.unity
+    guid: c9b94f06e9095184a951c68aaa1cab3d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f21d244dd31b2e54292f68a4bd07a179,
       type: 2}
